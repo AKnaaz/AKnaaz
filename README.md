@@ -50,7 +50,7 @@ In my free time, I explore new technologies and contribute to open-source.
 <!-- Social Links -->
 ### 🌐 Connect with me
 <p>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/AKnaaz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
