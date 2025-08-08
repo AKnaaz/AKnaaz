@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi there, I'm Aknaaz 👋</h1>
+<h1 align="center">Hi there, I'm Nazat Akter 👋</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 <!-- About Me Section -->
@@ -55,6 +55,9 @@ In my free time, I explore new technologies and contribute to open-source.
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="tel:+8801*******" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
