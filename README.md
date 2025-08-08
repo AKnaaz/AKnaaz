@@ -56,7 +56,7 @@ In my free time, I explore new technologies and contribute to open-source.
   <a href="https://x.com/Moontahasafiq?t=EgQaJ4RVJi7uL_xw4MGO3Q&s=08" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/nazatakter-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
