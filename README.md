@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/qq5TWwk6/f1.jpg" alt="GitHub Banner" />
+  <img src="https://i.postimg.cc/s2F2SvzC/nazatgit.png" alt="GitHub Banner" />
 </p>
 
 <!-- Name & Designation -->
