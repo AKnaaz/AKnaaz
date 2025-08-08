@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGvgLcsxcc/pOyKa_fCEMKNYGG97E-rAg/edit?utm_content=DAGvgLcsxcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="GitHub Banner" />
+  <img src="https://i.postimg.cc/s2F2SvzC/nazatgit.png" alt="GitHub Banner" />
 </p>
 
 <!-- Name & Designation -->
