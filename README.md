@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/g2TPVt6Z/Black-Modern-Vlogger-You-Tube-Banner.png" />
+  <img src="https://i.postimg.cc/QdwMqJBH/ba.png" />
 </p>
 
 <!-- Name & Designation -->
