@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/s2F2SvzC/nazatgit.png" alt="GitHub Banner" />
+  <img src="https://i.postimg.cc/g2TPVt6Z/Black-Modern-Vlogger-You-Tube-Banner.png" />
 </p>
 
 <!-- Name & Designation -->
